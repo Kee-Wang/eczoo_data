@@ -35,7 +35,7 @@ realizations:
   - 'Realized in trapped-ion quantum devices\cite{arXiv:1611.06946}.'
 
 notes:
-  - 'Concatenating [[4,2,2]] code with toric code can generate 2D toplogical code\cite{doi:10.26421/QIC16.15-16-1}.'
+  - 'Concatenating [[4,2,2]] code with toric code can generate 2D toplogical code\cite{arXiv:1604.04062}.'
 
 relations:
   parents:
